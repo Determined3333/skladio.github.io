@@ -1781,4 +1781,8 @@ a {
   .ty-order__block {
     padding: 20px;
   }
+
+  .reviews__avatar-inner{
+    width: 100px;
+  }
 }
