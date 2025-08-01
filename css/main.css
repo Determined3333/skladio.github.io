@@ -1785,6 +1785,12 @@ a {
   .reviews__avatar-inner{
     width: 100px;
   }
+  
+  .advantages__bottom-left {
+    min-height: 355px;
+    border-radius: 30px;
+    padding: 36px;
+  }
 }
 
 @media (max-width: 374px) {
